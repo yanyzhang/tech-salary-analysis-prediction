@@ -1,12 +1,3 @@
-Project Title: Tech Compensation Market Analysis.
-
-
-<img width="1567" height="1052" alt="image" src="https://github.com/user-attachments/assets/196240d7-d38e-4a85-9eb4-a47be3995940" />
-<img width="1569" height="1043" alt="image" src="https://github.com/user-attachments/assets/1373059d-fe95-458f-b94a-b2ac520276a8" />
-
-
-
-
 
 # Tech Compensation Market Trends & Predictive Modeling
 
@@ -21,6 +12,8 @@ Analyzed a comprehensive dataset of **20,000+ salary records** to identify indus
 * **Cloud Infrastructure:** Google Cloud Platform (GCP)
 
 ---
+<img width="1567" height="1052" alt="image" src="https://github.com/user-attachments/assets/196240d7-d38e-4a85-9eb4-a47be3995940" />
+<img width="1569" height="1043" alt="image" src="https://github.com/user-attachments/assets/1373059d-fe95-458f-b94a-b2ac520276a8" />
 
 ## 📊 Key Market Insights
 
