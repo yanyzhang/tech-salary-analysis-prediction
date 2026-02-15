@@ -8,8 +8,8 @@ Project Title: Tech Compensation Market Analysis.
 
 
 
-# [Tech Compensation Market Trends & Predictive Modeling] 
-*(例如: Tech Compensation Market Trends & Predictive Modeling)*
+# Tech Compensation Market Trends & Predictive Modeling
+
 
 ## 📌 Project Objective
 Analyzed a comprehensive dataset of **20,000+ salary records** to identify industry compensation trends and build a predictive model estimating compensation based on location, role, and experience.
